@@ -6,6 +6,9 @@
 
 ├── README.md
 ├── asset                       静态资源文件
+│   ├── css
+│   ├── js
+│   └── image
 ├── command                     命令行
 │   └── command.go
 ├── config                      全局配置
@@ -29,7 +32,7 @@
 ├── vendor                      govendor包
 ├── storage                     
 │   ├── cache                   缓存文件
-│   └── logs                    项目日志
+│   └── log                    项目日志
 │       ├── info.log          
 │       └── error.log
 ├── main.go                     项目入口
