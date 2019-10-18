@@ -36,7 +36,7 @@
 │   └── view
 ├── api                         移动端项目
 │   ├── controller
-│   ├── middleware
+│   └── middleware
 ├── middleware                  全局中间件
 ├── model                       全局model
 ├── service                     业务层
